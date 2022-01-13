@@ -9,3 +9,12 @@
   
 # Background jobs
   https://github.com/HangfireIO/Hangfire
+  
+# Authentication and Authorization
+  https://github.com/casbin/awesome-auth
+  
+# Workflow and Orchestration
+  https://github.com/danielgerlag/workflow-core
+  
+# Table parsing
+  https://github.com/BobLd/camelot-sharp
