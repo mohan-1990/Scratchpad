@@ -1,2 +1,11 @@
-Useful library to generate class diagram from API models
+# Useful library to generate class diagram from API models
   https://github.com/EvAlex/ef-db-diagrams
+  
+# Distributed lock
+  https://github.com/madelson/DistributedLock
+  
+# Fault tolereance and resilience
+  https://github.com/App-vNext/Polly
+  
+# Background jobs
+  https://github.com/HangfireIO/Hangfire
