@@ -7,6 +7,7 @@
 Things to know for system designs
   - Workflow orchestration engine/ tool - Eg. Airflow
   - Message queue - Eg. Rabbit MQ, Kafka, etc
+  - Background job processing - Eg. Hangfire
   - Enterprise Service Bus - invloves protocol translations as well (A low level component)
   - Logging server
   - Caching Server
