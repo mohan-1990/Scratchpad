@@ -11,8 +11,10 @@ Things to know for system designs
   - Enterprise Service Bus - invloves protocol translations as well (A low level component)
   - Logging server
   - Caching Server
-  - Authentication/ Authorization server
+  - Authentication/ Authorization server - Eg. OAuth/ Microsoft Active Directory
   - API authoring tool - Eg. Swagger
+  - Data Processing - Eg. Apache Spark
+  - Search - Eg. Elastic Search
   
 Things to know for network/ server design
   - Load balancer
