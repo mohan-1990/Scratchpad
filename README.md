@@ -25,5 +25,8 @@ Things to know for network/ server design
 
 RTMP Server Node Implementation
   - https://github.com/illuspas/Node-Media-Server/
+
+Javascript 
+  - ![Some notes on function scopes, function context, execution context, scope chains and closures](http://ryanmorr.com/understanding-scope-and-context-in-javascript/)
   
   
